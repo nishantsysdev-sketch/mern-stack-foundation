@@ -36,3 +36,18 @@ through hands-on practice.
 ### Key Takeaway
 
 An HTML document has a standard structure. The browser uses this structure to interpret the page and display its content.
+
+
+## Mission 2: Text and Semantic Tags
+
+### Concepts Learned
+- HTML heading hierarchy: h1 to h6
+- Difference between strong and b
+- Difference between em and i
+- Semantic elements: header, nav, main, section, footer
+- Internal page links using id and href
+
+### Practical Work
+- Built a learning journey webpage.
+- Organized content using headings and semantic elements.
+- Tested text formatting and navigation links in the browser.
